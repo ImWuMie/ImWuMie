@@ -6,7 +6,7 @@
 ![](https://github-readme-stats.vercel.app/api?username=ImWuMie&show_icons=true&theme=transparent&include_all_commits=true&count_private=true) 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ImWuMie&layout=compact&theme=tokyonight)    
 #### :heart::heart::heart: 最近开发的项目 :heart::heart::heart:
-![MCAttack](https://github-readme-stats.vercel.app/api/pin/?username=/ImWuMie&repo=MCAttack)
+![devlog 1.20.4 music-哔哩哔哩](https://b23.tv/5tqTZKm)
 #### :heart::heart::heart: Developments :heart::heart::heart:
 ![Yurnv](https://github-readme-stats.vercel.app/api?username=StarryCamile)
 ![F1n](https://github-readme-stats.vercel.app/api?username=FinLemonKe)
