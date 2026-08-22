@@ -8,19 +8,6 @@
 
 <!-- -------------------------------------------- -->
 
-<h3 align="center">✨ about me ✨</h3>
-
-<p align="center">
-  hehe~ i'm a lil' dev into reverse engineering, bytecode & modding 🐱<br/>
-  ...and i love every byte of it ✨
-</p>
-
-<p align="center">
-  🌍 based in <b>china</b> 🇨🇳
-</p>
-
-<!-- -------------------------------------------- -->
-
 <h3 align="center">🛠️ tech stack 🛠️</h3>
 
 <p align="center">
