@@ -3,10 +3,6 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ImWuMie/ImWuMie/main/assets/header.svg" width="100%" alt="wumie banner"/>
-</p>
-
-<p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=800&color=F75C7E&center=true&vCenter=true&width=720&lines=hi+there+%F0%9F%91%8B+i'm+wumie;i+build+*interesting*+things+%E2%9C%A8;reverse+engineering+%7C+bytecode+%7C+modding;always+learning+%2C+always+breaking+things+%F0%9F%94%A7" alt="typing animation"/>
 </p>
 
