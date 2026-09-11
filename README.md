@@ -51,7 +51,6 @@
 <h3 align="center">🌌 let's connect 🌌</h3>
 
 <p align="center">
-  <a href="mailto:3177784940@qq.com"><img src="https://img.shields.io/badge/QQ-3177784940-12B7F5?style=for-the-badge&logo=tencentqq&logoColor=white" alt="QQ"/></a>
   <a href="https://github.com/ImWuMie"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
   <img src="https://komarev.com/ghpvc/?username=ImWuMie&style=for-the-badge&color=ff6ec4" alt="profile views"/>
 </p>
